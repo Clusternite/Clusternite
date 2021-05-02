@@ -17,26 +17,28 @@
 **Skills & Tools**
 
 <p align="left">
- <!--
-https://www.vectorlogo.zone/logos
--->
-<img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code>
-<img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+<!--![PHP](https://img.icons8.com/color/30/php.png)-->
+![WordPress](https://img.icons8.com/color/30/wordpress.png)
+![SASS](https://img.icons8.com/color/30/sass.png)
+<!--![NPM](https://img.icons8.com/color/30/npm.png)-->
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+<!--![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)-->
+![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+<!--![VueJS](https://img.icons8.com/color/30/vue-js.png)-->
+<!--![Flutter](https://img.icons8.com/color/30/flutter.png)-->
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+<!--![AngularJS](https://img.icons8.com/color/30/angularjs.png)-->
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+<!--![Linux](https://img.icons8.com/color/30/linux.png)-->
+<!--![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)-->
+<!--![Console](https://img.icons8.com/color/30/console.png)-->
 </p>
 
 ---
