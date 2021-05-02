@@ -1,7 +1,7 @@
 ---
-
+<!--
 ![Brand](firstCover.jpg)
-
+-->
 ---
 
 **About me**
