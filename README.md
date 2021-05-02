@@ -54,7 +54,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clusternite&theme=dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clusternite&" alt="Clusternite" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clusternite&theme=dark" alt="Clusternite" />
 </p>
 
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Clusternite?label=follow&style=social)](https://github.com/Clusternite) 
