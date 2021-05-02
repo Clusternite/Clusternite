@@ -5,7 +5,7 @@
 ---
 
 **About me**
-<h4> I'm a developer, that is passionate about creating user-friendly and accessible web applications. </h4> 
+<p>I'm a developer, that is passionate about creating user-friendly and accessible web applications. </p> 
 
  Checkout my portfolio - **[Portfolio](https://clusternite.github.io/portfolio/)** 
 
@@ -17,23 +17,26 @@
 **Skills & Tools**
 
 <p align="left">
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+ <!--
+https://www.vectorlogo.zone/logos
+-->
+<img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code>
+<img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>
 
 ---
@@ -48,7 +51,7 @@
 -->
 ---
 
-**✅ RECENTLY COMPLETED PROJECTS:**
+**✅ Recent completed projects:**
 <!--
 <p style="display:flex">
     <a href="#">
