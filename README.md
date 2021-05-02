@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Clusternite/Clusternite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -38,8 +33,8 @@ Here are some ideas to get you started:
 
  🌐 **REACH ME ON**
 
-- [![Linkedin:AbiolaFarounbi](https://img.shields.io/badge/-AbiolaFarounbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
-- [![Twitter: abiolaesther_](https://img.shields.io/twitter/follow/abiolaesther_?style=social)](https://twitter.com/abiolaesther_)
+- [![Linkedin:SterreGovaert](https://img.shields.io/badge/-SterreGovaert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sterre-govaert-94ba571a0/)](https://www.linkedin.com/in/sterre-govaert-94ba571a0/)
+- [![Twitter: Clusternite](https://img.shields.io/twitter/follow/clusternite_?style=social)](https://twitter.com/abiolaesther_)
 
 
 </p>
