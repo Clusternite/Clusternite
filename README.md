@@ -35,7 +35,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
-
+<!--
 ---
 
 **🎯 Goals in 2021:**
@@ -58,7 +58,7 @@
 
 </p>
 
-
+-->
 ---
 
  **Contact me**
