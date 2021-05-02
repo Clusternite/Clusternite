@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -28,10 +27,6 @@ Here are some ideas to get you started:
  Checkout my portfolio - **[MY PORTFOLIO](https://clusternite.github.io/portfolio/)** 
 
 - 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-- 💬 Ask me about: Javascript ❤️ 
--  👩‍💻 Currently learning: VUE 
-- ⚡ Fun fact: I love watching and giving reviews on movies 😜, [My Personal Movie List](https://www.notion.so/Movie-List-d302c232eb654994988363004c4c015f)
 
 **TECHNOLOGIES I WORK WITH**
 
@@ -52,6 +47,6 @@ Here are some ideas to get you started:
 
 **GITHUB STAT'S**
 
-![stats](https://github-readme-stats.vercel.app/api?username=Abiola-Farounbi&show_icons=true&theme=synthwave)
+![stats](https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark)
 
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Abiola-Farounbi?label=follow&style=social)](https://github.com/Abiola-Fraounbi) 
