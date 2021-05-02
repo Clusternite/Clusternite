@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark)
 
-[![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Abiola-Farounbi?label=follow&style=social)](https://github.com/Abiola-Fraounbi) 
+[![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Clusternite?label=follow&style=social)](https://github.com/Clusternite) 
