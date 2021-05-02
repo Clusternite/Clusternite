@@ -7,7 +7,7 @@
 **About me**
 <h4> I'm a developer, that is passionate about creating user-friendly and accessible web applications. </h4> 
 
- Checkout my portfolio - **[MY PORTFOLIO](https://clusternite.github.io/portfolio/)** 
+ Checkout my portfolio - **[Portfolio](https://clusternite.github.io/portfolio/)** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
