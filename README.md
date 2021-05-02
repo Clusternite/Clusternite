@@ -9,12 +9,9 @@
 
  Checkout my portfolio - **[Portfolio](https://clusternite.github.io/portfolio/)** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👨‍💻 I’m currently working on portfolio
+- 📖 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
 ---
@@ -66,10 +63,11 @@
 ---
 
  **Contact me**
-
-- [![Linkedin:SterreGovaert](https://img.shields.io/badge/-SterreGovaert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sterre-govaert-94ba571a0/)](https://www.linkedin.com/in/sterre-govaert-94ba571a0/)
-- [![Twitter: Clusternite](https://img.shields.io/twitter/follow/clusternite_?style=social)](https://twitter.com/abiolaesther_)
-
+- Email: sterregovaert@gmail.com
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008461326706) 
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Clusternite) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sterre-g-4611621b6/) 
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCz5MQgL1YkBOrOsOKxMcMKQ) 
 ---
 
 **Github stats**
