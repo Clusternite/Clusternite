@@ -35,19 +35,21 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
-<!--
+
 ---
 
 **🎯 Goals in 2021:**
+<!--
 <p style="display:flex">
  - Master Javascript
  - Master React
  - ...
  </p>
+-->
 ---
 
 **✅ RECENTLY COMPLETED PROJECTS:**
-
+<!--
 <p style="display:flex">
     <a href="#">
         <img width=240 src="#" />
@@ -55,9 +57,7 @@
     <a href="#">
         <img width=240 src="#" />
     </a>
-
 </p>
-
 -->
 ---
 
