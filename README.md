@@ -55,5 +55,5 @@ Gmail: sterregovaert@gmail.com
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clusternite&theme=dark" alt="Clusternite" />
 </p>
 
-<im src="https://img.shields.io/github/followers/Clusternite?label=follow&style=social" alt="Clusternite" /> 
+<img src="https://img.shields.io/github/followers/Clusternite?label=follow&style=social&style=dark" alt="Clusternite" /> 
 <img src="https://komarev.com/ghpvc/?username=Clusternite&label=Profile%20views&color=0e75b6&style=dark" alt="Clusternite" />
