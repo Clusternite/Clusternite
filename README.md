@@ -58,3 +58,4 @@
 </p>
 
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Clusternite?label=follow&style=social)](https://github.com/Clusternite) 
+<img src="https://komarev.com/ghpvc/?username=Clusternite&label=Profile%20views&color=0e75b6&style=dark" alt="Clusternite" />
