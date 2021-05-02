@@ -4,7 +4,7 @@
 
 ---
 
-**ABOUT ME...**
+**About me**
 <h4> I'm a developer, that is passionate about creating user-friendly and accessible web applications. </h4> 
 
  Checkout my portfolio - **[MY PORTFOLIO](https://clusternite.github.io/portfolio/)** 
@@ -43,14 +43,14 @@
 
 ---
 
- 🌐 **Contact me**
+ **Contact me**
 
 - [![Linkedin:SterreGovaert](https://img.shields.io/badge/-SterreGovaert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sterre-govaert-94ba571a0/)](https://www.linkedin.com/in/sterre-govaert-94ba571a0/)
 - [![Twitter: Clusternite](https://img.shields.io/twitter/follow/clusternite_?style=social)](https://twitter.com/abiolaesther_)
 
 ---
 
-**GITHUB STAT'S**
+**Github stats**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark)
 
