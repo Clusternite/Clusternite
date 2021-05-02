@@ -37,7 +37,27 @@
 </p>
 
 ---
-** 🎯 Goals in 2021: **
+
+**🎯 Goals in 2021:**
+<p style="display:flex">
+ - Master Javascript
+ - Master React
+ - ...
+ </p>
+---
+
+**✅ RECENTLY COMPLETED PROJECTS:**
+
+<p style="display:flex">
+    <a href="#">
+        <img width=240 src="#" />
+    </a>
+    <a href="#">
+        <img width=240 src="#" />
+    </a>
+
+</p>
+
 
 ---
 
