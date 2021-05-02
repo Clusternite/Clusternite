@@ -53,8 +53,8 @@
 **Github stats**
 <p align = "center">
   ![stats](https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark)
-  <img src = "https://github-readme-stats.vercel.app/api?username=vatsa287&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsa287&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Clusternite&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clusternite&theme=dark">
 </p>
 
 [![GitHub Abiola-Farounbi](https://img.shields.io/github/followers/Clusternite?label=follow&style=social)](https://github.com/Clusternite) 
